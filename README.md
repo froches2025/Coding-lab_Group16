@@ -1,19 +1,17 @@
-Project Objective
-The goal of this project is to develop an automated log management system that enhances healthcare monitoring by efficiently collecting, managing, and analyzing data. This project demonstrates a comprehensive application of shell scripting and Linux tools for real-time system monitoring and reporting.
+Our Project Objective 
 
-Key Features
-Real-Time Data Collection
-Continuously gathers patient health metrics and resource usage statistics.
+The objective of this project is to develop an automated log management system that improves the healthcare monitoring through collecting, organizing and also analyzing the medical data. This will also show the proficiency use of shell scripting, log file processing and use of various linux command-line tools for data analysis.
 
-Controlled Log Archiving
-Allows users to selectively archive logs based on custom criteria.
+Core features
 
-Analytical Report Generation
-Produces insightful reports including device statistics and temporal patterns.
+Data recording
+The system gathers health data metrics and resource usage information in real time.
 
-Technical Highlights
-This project showcases proficiency in:
+Log archiving and report generation
+The system analyzes log files to calculate and see times a device has been used, showing also the first and last time it was used. These results are then inserted into a file that produces well detailed reports about the device statistics.
 
-Interactive Shell Scripting
-Log File Processing
-Data Analysis using Linux Utilities (e.g., awk, grep, sed, sort, uniq, etc.)
+Skills and tools shown
+Use of interactive shell scripts with user menus
+Managing and processing log files 
+Data analysing using command-line tools such as awk, sort, grep and uniq.
+
