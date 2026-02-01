@@ -20,9 +20,9 @@ case $user in
 
 		TIMESTAMP=$(date +"%Y-%m-%d_%H:%M:%S")
 
-		mv hospital_data/active_logs/heart_rate.log hospital_data/archives/heart_data_archive/heart_rate_$TIMESTAMP.log
+		mv active_logs/heart_rate_log.log hospital_data/archived_logs/heart_data_archive/heart_rate_log_$TIMESTAMP.log
 
-		touch hospital_data/active_logs/heart_rate.log
+		touch active_logs/heart_rate_log.log
 
 		echo "Successfully archived to heart_data_archive/heart_rate_$TIMESTAMP.log"
 
@@ -32,8 +32,8 @@ case $user in
 
 		TIMESTAMP=$(date +"%Y-%m-%d_%H:%M:%S")
 
-		mv hospital_data/active_logs/temperature.log hospital_data/archives/temperature_data_archive/temperature_$TIMESTAMP.log
-		touch hospital_data/active_logs/temperature.log
+		mv active_logs/temperature_log.log hospital_data/archived_logs/temperature_data_archive/temperature_log_$TIMESTAMP.log
+		touch active_logs/temperature_log.log
 
 		echo "Successfully archived to temperature_data_archive/temperature_$TIMESTAMP.log"
 
@@ -44,8 +44,8 @@ case $user in
 
 		TIMESTAMP=$(date +"%Y-%m-%d_%H:%M:%S")
 
-		mv hospital_data/active_logs/water_usage.log hospital_data/archives/water_usage_data_archive/water_usage_$TIMESTAMP.log
-		touch hospital_data/active_logs/water_usage.log
+		mv active_logs/water_usage_log.log hospital_data/archived_logs/water_usage_data_archive/water_usage_log$TIMESTAMP.log
+		touch active_logs/water_usage_log.log
 
 		echo "Successfully archived to water_usage_data_archive/water_usage_$TIMESTAMP.log"
 
