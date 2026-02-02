@@ -1,0 +1,24 @@
+----------------------------------------
+Analysis Date: Mon Feb  2 22:01:06 SAST 2026
+Log Type: Heart Rate
+Log File: hospital_data/active_logs/heart_rate_log.log
+
+First Entry: 2026-02-02 12:27:57
+Last Entry:  2026-02-02 13:15:50
+
+Device Entry Counts:
+   4482 HeartRate_Monitor_A
+   4482 HeartRate_Monitor_B
+
+----------------------------------------
+Analysis Date: Mon Feb  2 22:02:35 SAST 2026
+Log Type: Temperature
+Log File: hospital_data/active_logs/temperature_log.log
+
+First Entry: 2026-02-02 12:46:03
+Last Entry:  2026-02-02 13:15:49
+
+Device Entry Counts:
+   1696 Temp_Recorder_A
+   1696 Temp_Recorder_B
+
