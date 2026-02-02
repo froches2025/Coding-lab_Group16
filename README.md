@@ -42,5 +42,5 @@ The system analyzes log files to calculate and see times a device has been used,
 Skills and tools shown
 * Use of interactive shell scripts with user menus
 * Managing and processing log files 
-* Data analysing using command-line tools such as awk, sort, grep and uniq.
+* Data analysing using command-line tools such as awk, sort, grep and uniq
 
