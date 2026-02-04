@@ -1,0 +1,20 @@
+Analysis of heart rate monitor
+Date: 02/02/2026 10:51pm
+Total count per device: 350
+Timestamp of first/last entry: 
+	First entry: 01/02/2026, 10:00am
+	Last entry: 02/02/2026, 09:30am
+
+Analysis of heart rate monitor
+Date: 02/02/2026 10:51pm
+Total count per device: 350
+Timestamp of first/last entry:
+        First entry: 01/02/2026, 10:00am
+        Last entry: 02/02/2026, 09:30am
+
+Analysis of temperature monitor
+Date: 02/02/2026 10:51pm
+Total count per device: 350
+Timestamp of first/last entry:
+        First entry: 01/02/2026, 10:00am
+        Last entry: 02/02/2026, 09:30am
